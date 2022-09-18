@@ -1,0 +1,1 @@
+https://svgsprit.es/  --> for creating single sprite image from various images.
