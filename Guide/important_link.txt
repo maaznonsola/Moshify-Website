@@ -1,3 +1,5 @@
 https://svgsprit.es/  --> for creating single sprite image from various images.
 
 https://bennettfeely.com/clippy/  --> for creating clip path i,e block with start/polygon any design
+
+https://cloudconvert.com/  --> for converting PNG to WebP because WebP create high quality compressed image
