@@ -12,4 +12,6 @@ https://validator.w3.org/  --> HTML validator
 
 https://jigsaw.w3.org/css-validator/  --> CSS validator
 
-https://parceljs.org/  --> for minifying HTML, CSS, JS and Images 
+https://parceljs.org/  --> for minifying HTML, CSS, JS and Images
+
+https://maaz-moshify.netlify.app/  --> Deployed Website Link
