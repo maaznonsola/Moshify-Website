@@ -5,3 +5,5 @@ https://bennettfeely.com/clippy/  --> for creating clip path i,e block with star
 https://cloudconvert.com/  --> for converting PNG to WebP because WebP create high quality compressed image
 
 https://michalsnik.github.io/aos/  --> for applying beautiful animation like fade zoom etc
+
+https://ogp.me/  --> for SEO tags
