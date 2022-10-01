@@ -7,3 +7,7 @@ https://cloudconvert.com/  --> for converting PNG to WebP because WebP create hi
 https://michalsnik.github.io/aos/  --> for applying beautiful animation like fade zoom etc
 
 https://ogp.me/  --> for SEO tags
+
+https://validator.w3.org/  --> HTML validator
+
+https://jigsaw.w3.org/css-validator/  --> CSS validator
