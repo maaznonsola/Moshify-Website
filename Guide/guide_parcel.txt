@@ -1,0 +1,16 @@
+1) node -v (check node version) 
+2) npm init -y (initialize npm without permission i,e yes to all)
+3) npm i -D parcel-bundler (install parcel bundler)
+4) node_modules/.bin/parcel index.html (for opening your file locally installed parcel)
+   OR
+   npm i -g parcel-bundler (install globally) and then 
+   parcel index.html                    
+5) parcel build index.html         (if locally installed then node_modules/.bin/parcel build index.html)
+   if get error as "D:\Projects\Moshify\index.html: tree.render is not a function" then
+   
+   adding .htmlnanorc.js to my project root with the following:
+
+    module.exports = {
+        "minifySvg": false
+    }
+6) Now again run "parcel build index.html"
